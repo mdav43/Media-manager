@@ -1,0 +1,40 @@
+{
+  "9b1ce2a9c78abd18f8224e8afc87e52205d578b2e95285382add031c2e1ff3de": {
+    "match_type": "movie",
+    "tmdb_id": 4808,
+    "title": "Charade",
+    "year": "1963",
+    "poster_path": "/qqaPjC5FQidtKY65jbAKZPiOTaS.jpg"
+  },
+  "7d834f84f0db03655de002dea5b8dfe1cbda62776ce477b4e0a3bf4375baa4c6": {
+    "match_type": "episode",
+    "series_tmdb_id": 67070,
+    "series_name": "Fleabag",
+    "first_air_year": "2016",
+    "poster_path": "/27vEYsRKa3eAniwmoccOoluEXQ1.jpg",
+    "season": 2,
+    "episode": 6,
+    "episode_name": "Episode 6",
+    "air_date": "2019-04-08",
+    "episode_tmdb_id": 1743340
+  },
+  "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2": {
+    "match_type": "movie",
+    "tmdb_id": 278,
+    "title": "The Shawshank Redemption",
+    "year": "1994",
+    "poster_path": "/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg"
+  },
+  "b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2": {
+    "match_type": "episode",
+    "series_tmdb_id": 1399,
+    "series_name": "Game of Thrones",
+    "first_air_year": "2011",
+    "poster_path": "/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+    "season": 8,
+    "episode": 3,
+    "episode_name": "The Long Night",
+    "air_date": "2019-04-28",
+    "episode_tmdb_id": 1551888
+  }
+}
